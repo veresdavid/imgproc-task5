@@ -7,9 +7,9 @@ Very basic character recognition program.
 
 Usage:
 
-Training: ./program -t train_image.jpg train_output.txt
+Training: `./program -t train_image.jpg train_output.txt`
 
-Recognition: ./program -r input_image.jpg database.txt output.txt
+Recognition: `./program -r input_image.jpg database.txt output.txt`
 
 Implemented:
 * threshold image
